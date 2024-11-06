@@ -1,0 +1,149 @@
+/*class Time
+{
+    public static void main(String[]args)
+    {
+        int hours=3;
+        int minutes=60;
+        int seconds=120;
+        int num=hours*minutes;
+        int num1=hours*seconds;
+        System.out.println(num);
+        System.out.println(num1);
+    }
+}*/
+
+---------------------------------------------------
+
+/*class  Rectangle
+{
+    public static void main(String[]args)
+    {
+        int length=70;
+        int breadth=50;
+        int area=length*breadth;
+        int perimeter=2*(length*breadth);
+        System.out.println(area);
+        System.out.println(perimeter);
+    }
+}*/
+
+----------------------------------------------------------
+
+/*class SimpleInterst {
+    public static void main(String[]args)
+    {
+        int p=2000;
+        int t=5;
+        int r=25000;
+        //int si=(p*t*r)/100;
+        //System.out.println("simpleinterst is:"+si);
+          System.out.println(p*t*r/100);
+
+
+
+
+
+    }
+}*/
+
+
+
+
+/*class Age
+{
+    public static void main(String[]args)
+{
+    int bod=2003;
+    int current_year=2024;
+    int current=current_year-bod;
+    int month,weeks,days;
+    month=current*12;
+    weeks=current*52;
+    days=current*365;
+    System.out.println("day:"  +current);
+     System.out.println("month:" +month);
+      System.out.println("year:" +weeks);
+        System.out.println("year:" +days);
+}
+    
+    }*/
+
+
+
+******price******
+
+/*{
+    public static void main(String[]args)
+    {
+        int price=1500;
+        int dis1=30* price/100;
+        int dis2=45*price/100;
+        System.out.println(dis1);
+        System.out.println(dis2);
+    }
+}--*/--------------------------------------------
+
+/*{
+    public static void main(String[]args)
+    {
+        double total=price*(discount/100);
+        System.out.println("total:" +1000*(50/100));
+    }
+}-*/---------------------------------------------------------
+
+/*class Price
+{
+    public static void main(String[]args)
+    {
+        int price=1000;
+        double discount=50;
+        int total=100;
+        System.out.println(price*discount/100);
+    }
+}*/
+
+
+
+---------LAST DIGIT PRINT---------------
+/*class Sum
+{
+    public static void main(String[]args)
+    {
+        int  num=123;
+        int last= num/40;
+        System.out.println(last);
+        
+    }
+}*/
+--------------------------------------------------------------------------------
+
+
+/*class Remainder
+{
+    public static void main(String[] args) 
+    {
+        int num=567;
+        int lastdigit=num%10;
+        int remainder=num/10;
+        int sum=remainder+7;
+    System.out.println("lastdigit:"+lastdigit);
+   System.out.println("remainder:"+remainder);
+        System.out.println("sum:"+sum);
+    }
+}*/
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
